@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="project"/>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="src" path="src/test/scala"/>
+	<classpathentry kind="src" path="web-ui/src/main/scala"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/DEV/PF/scalactic_2.11-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/DEV/PF/scalatest_2.11-3.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
